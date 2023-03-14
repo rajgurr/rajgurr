@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**rajgurr/rajgurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ABOUT ME:
 
 - 👋 Hi,I’m Rajaguru S
 - 👀 I’m Interested in web development ...
@@ -11,4 +8,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for an internship ...
 - 📫 How to reach me: rajagurusk02@gmail.com
 - ⚡ Fun fact: Coding is Fun
--->
+
